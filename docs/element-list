@@ -1,0 +1,8 @@
+com.example.users_book
+com.example.users_book.config
+com.example.users_book.controllers
+com.example.users_book.domain
+com.example.users_book.dto
+com.example.users_book.repository
+com.example.users_book.services
+com.example.users_book.utils
